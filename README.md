@@ -1,5 +1,13 @@
-# Julia Day 13.12.2019 Sorbonne Université
-Lecture notes and material for the Julia day at Sorbonne Université 2019
+# Getting to know Julia in one day
+
+This introductory course into Julia is presented in the form of Jupyter notebooks,
+which discuss the key concepts of the language from
+the angle of performing molecular simulations or linear algebra
+operations. It also provides an overview of existing packages
+and projects based on Julia.
+
+This material was originally prepared for the Julia day at Sorbonne Université
+on 13.12.2019.
 More details on [my website](https://michael-herbst.com/teaching/2019-julia-day-jussieu/).
 
 ## Installing Julia
