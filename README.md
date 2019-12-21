@@ -50,3 +50,7 @@ After the command is finished you can start the notebooks as usual:
 cd course_julia_day
 jupyter notebook .
 ```
+
+## Citation
+If you find this material useful, please consider citing it:
+[![DOI](https://zenodo.org/badge/218152558.svg)](https://zenodo.org/badge/latestdoi/218152558)
