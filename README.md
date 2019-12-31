@@ -7,8 +7,8 @@ operations. It also provides an overview of existing packages
 and projects based on Julia.
 
 This material was originally prepared for the Julia day at Sorbonne Université
-on 13.12.2019.
-More details on [my website](https://michael-herbst.com/teaching/2019-julia-day-jussieu/).
+on 13.12.2019 ([details](https://michael-herbst.com/teaching/2019-julia-day-jussieu/)),
+but was also presented at 36c3 in Leipzig.
 
 ## Installing Julia
 For working on the notebooks **Julia 1.3** is recommended.
