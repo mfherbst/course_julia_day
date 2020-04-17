@@ -1,4 +1,4 @@
-# Getting to know Julia in one day
+# Getting to know Julia in one day  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mfherbst/course_julia_day/master?filepath=00_Introduction.ipynb)
 
 This introductory course into Julia is presented in the form of Jupyter notebooks,
 which discuss the key concepts of the language from
@@ -9,6 +9,11 @@ and projects based on Julia.
 This material was originally prepared for the Julia day at Sorbonne Université
 on 13.12.2019 ([details](https://michael-herbst.com/teaching/2019-julia-day-jussieu/)),
 but was also presented at 36c3 in Leipzig.
+
+## Using the tutorial online
+If you don't want to install Julia just yet, just run the tutorial
+[on binder](https://mybinder.org/v2/gh/mfherbst/course_julia_day/master?filepath=00_Introduction.ipynb),
+which allows you to work with the material directly from your browser.
 
 ## Installing Julia
 For working on the notebooks **Julia 1.3** is recommended.
