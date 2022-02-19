@@ -1,5 +1,9 @@
 # Getting to know Julia in one day  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mfherbst/course_julia_day/master?filepath=00_Introduction.ipynb)
 
+**Note: This material is a little outdated,
+see [michael-herbst.com/learn-julia](https://michael-herbst.com/learn-julia)
+for my most recent workshop.**
+
 This introductory course into Julia is presented in the form of Jupyter notebooks,
 which discuss the key concepts of the language from
 the angle of performing molecular simulations or linear algebra
